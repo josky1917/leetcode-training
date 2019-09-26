@@ -7,7 +7,7 @@ class Solution:
         """
         h = {}
         for i, num in enumerate(nums):
-            n = target -num
+            n = target - num
             if n not in h:
                 h[num] = i
             else:

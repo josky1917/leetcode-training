@@ -13,4 +13,4 @@ def Lengthof(s):
     return maxlength
 
 
-print(Lengthof("abcabcdea"))
+print(Lengthof("abcabcd"))
